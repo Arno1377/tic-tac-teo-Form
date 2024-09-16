@@ -1,0 +1,17 @@
+E:\Programming\tic-tac-teo Form\bin\Debug\net6.0-windows\tic-tac-teo Form.exe
+E:\Programming\tic-tac-teo Form\bin\Debug\net6.0-windows\tic-tac-teo Form.deps.json
+E:\Programming\tic-tac-teo Form\bin\Debug\net6.0-windows\tic-tac-teo Form.runtimeconfig.json
+E:\Programming\tic-tac-teo Form\bin\Debug\net6.0-windows\tic-tac-teo Form.dll
+E:\Programming\tic-tac-teo Form\bin\Debug\net6.0-windows\tic-tac-teo Form.pdb
+E:\Programming\tic-tac-teo Form\obj\Debug\net6.0-windows\tic-tac-teo Form.csproj.AssemblyReference.cache
+E:\Programming\tic-tac-teo Form\obj\Debug\net6.0-windows\tic_tac_teo_Form.Form1.resources
+E:\Programming\tic-tac-teo Form\obj\Debug\net6.0-windows\tic-tac-teo Form.csproj.GenerateResource.cache
+E:\Programming\tic-tac-teo Form\obj\Debug\net6.0-windows\tic-tac-teo Form.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\tic-tac-teo Form\obj\Debug\net6.0-windows\tic-tac-teo Form.AssemblyInfoInputs.cache
+E:\Programming\tic-tac-teo Form\obj\Debug\net6.0-windows\tic-tac-teo Form.AssemblyInfo.cs
+E:\Programming\tic-tac-teo Form\obj\Debug\net6.0-windows\tic-tac-teo Form.csproj.CoreCompileInputs.cache
+E:\Programming\tic-tac-teo Form\obj\Debug\net6.0-windows\tic-tac-teo Form.dll
+E:\Programming\tic-tac-teo Form\obj\Debug\net6.0-windows\refint\tic-tac-teo Form.dll
+E:\Programming\tic-tac-teo Form\obj\Debug\net6.0-windows\tic-tac-teo Form.pdb
+E:\Programming\tic-tac-teo Form\obj\Debug\net6.0-windows\tic-tac-teo Form.genruntimeconfig.cache
+E:\Programming\tic-tac-teo Form\obj\Debug\net6.0-windows\ref\tic-tac-teo Form.dll
